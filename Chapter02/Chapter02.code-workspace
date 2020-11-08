@@ -1,23 +1,29 @@
 {
-	"folders": [
-		{
-			"path": "Numbers"
-		},
-		{
-			"path": "Basics"
-		},
-		{
-			"path": "Variables"
-		},
-		{
-			"path": "Arrays"
-		},
-		{
-			"path": "NullHandling"
-		},
-		{
-			"path": "Formatting"
-		}
-	],
-	"settings": {}
+  "folders": [
+    {
+      "path": "Numbers"
+    },
+    {
+      "path": "Basics"
+    },
+    {
+      "path": "Variables"
+    },
+    {
+      "path": "Arrays"
+    },
+    {
+      "path": "NullHandling"
+    },
+    {
+      "path": "Formatting"
+    },
+    {
+      "path": "Arguments"
+    },
+    {
+      "path": "Exercise02"
+    }
+  ],
+  "settings": {}
 }

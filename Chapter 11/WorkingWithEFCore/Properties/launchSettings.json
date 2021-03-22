@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "WorkingWithEFCore": {
+      "commandName": "Project",
+      "commandLineArgs": "\"..\\..\\..\\Northwind.db\""
+    }
+  }
+}
